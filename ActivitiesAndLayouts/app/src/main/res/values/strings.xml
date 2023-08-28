@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Activities And Layouts</string>
+    <string name="dogSquare">Dog Image Square Shaped</string>
+    <string name="tulipRectangle">Tulip Image Rectangle Shaped</string>
 </resources>

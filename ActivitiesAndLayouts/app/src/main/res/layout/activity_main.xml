@@ -20,7 +20,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:contentDescription="TODO"
+            android:contentDescription="@string/dogSquare"
             app:srcCompat="@drawable/img1" />
 
         <ImageView
@@ -28,6 +28,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:contentDescription="@string/tulipRectangle"
             app:srcCompat="@drawable/img2" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
